@@ -1,3 +1,4 @@
 # Monticello-UVA-FieldSchool-2022
-Materials for Monticello-UVA Archaeological Field School 
+Materials for Monticello-UVA Archaeological Field School
+* [Course Description and Syllabus] (github.com/TJF-Monticello/Monticello-UVA-FieldSchool-2022/tree/main/DescriptionAndSyllabus) Click here for the Course Description and the Daily Schdeule and Syllabus.
 * [Reading](https://github.com/TJF-Monticello/Monticello-UVA-FieldSchool-2022/tree/main/Reading). Click here to download reading for the course. 
